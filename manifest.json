@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "name": "GitHub Avatars",
+    "version": "0.1",
+    "description": "Increases the size of user avatars in GitHub issues",
+    "permissions": [
+        "https://github.com/*"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "https://github.com/*"
+            ],
+            "css": [
+                "styles.css"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ]
+}
