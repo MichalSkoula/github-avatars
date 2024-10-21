@@ -5,6 +5,9 @@ The problem with Github issues is that the avatars (especially if they are just 
 
 This extension doubles the size of the avatars and puts the names next to them.
 
+![obrazek](https://github.com/user-attachments/assets/2e31adab-7521-4ae3-8440-13486b1db4a9)
+
+
 ## Installation
 
 https://addons.mozilla.org/en-US/firefox/addon/github-avatars/
