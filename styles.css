@@ -1,17 +1,19 @@
-.AvatarStack-body {
-    display: flex !important;
-    align-items: center;
-    flex-direction: row !important;
-}
-
-.avatar-user {
-    width: 40px !important;
-    height: 40px !important;
-}
-
-.avatar-alt-text {
-    display: block !important;
-    font-size: 14px !important;
-    margin-bottom: 5px !important;
-    margin-right: 20px;
+.AvatarStack {
+    .AvatarStack-body {
+        display: flex !important;
+        align-items: center;
+        flex-direction: row !important;
+    }
+    
+    .avatar-user {
+        width: 40px !important;
+        height: 40px !important;
+    }
+    
+    .avatar-alt-text {
+        display: block !important;
+        font-size: 14px !important;
+        margin-bottom: 5px !important;
+        margin-right: 20px;
+    }    
 }
