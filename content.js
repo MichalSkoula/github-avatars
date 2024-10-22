@@ -1,5 +1,5 @@
 function processAvatars() {
-    const avatarStacks = document.querySelectorAll('.AvatarStack .AvatarStack-body');
+    const avatarStacks = document.querySelectorAll('.Box .AvatarStack-body');
 
     avatarStacks.forEach((stack, index) => {
         const avatarLinks = stack.querySelectorAll('a.avatar');
