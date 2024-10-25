@@ -12,6 +12,8 @@ This extension doubles the size of the avatars and puts the names next to them.
 
 https://addons.mozilla.org/en-US/firefox/addon/github-avatars/
 
+or grab a zip file from [releases](https://github.com/MichalSkoula/github-avatars/releases)
+
 ## About
 * MIT Licence
 * https://skoula.cz
