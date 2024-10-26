@@ -10,8 +10,8 @@ This extension doubles the size of the avatars and puts the names next to them.
 
 ## Installation
 
-Firefox: https://addons.mozilla.org/en-US/firefox/addon/github-avatars/
-Chrome: https://chromewebstore.google.com/detail/github-avatars/bfjpkpilbbacifdiebmdfopebgaednmp
+* Firefox: https://addons.mozilla.org/en-US/firefox/addon/github-avatars/
+* Chrome: https://chromewebstore.google.com/detail/github-avatars/bfjpkpilbbacifdiebmdfopebgaednmp
 
 OR grab a zip file from [releases](https://github.com/MichalSkoula/github-avatars/releases)
 
