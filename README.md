@@ -1,4 +1,4 @@
-# GitHub Avatars (Firefox Extension)
+# GitHub Avatars (Browser Extension)
 Increases the size of user avatars in GitHub issues and adds a name next to them.
 
 The problem with Github issues is that the avatars (especially if they are just auto-generated) are small and it is hard to distinguish between users.
@@ -10,9 +10,10 @@ This extension doubles the size of the avatars and puts the names next to them.
 
 ## Installation
 
-https://addons.mozilla.org/en-US/firefox/addon/github-avatars/
+Firefox: https://addons.mozilla.org/en-US/firefox/addon/github-avatars/
+Chrome: https://chromewebstore.google.com/detail/github-avatars/bfjpkpilbbacifdiebmdfopebgaednmp
 
-or grab a zip file from [releases](https://github.com/MichalSkoula/github-avatars/releases)
+OR grab a zip file from [releases](https://github.com/MichalSkoula/github-avatars/releases)
 
 ## About
 * MIT Licence
