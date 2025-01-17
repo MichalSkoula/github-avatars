@@ -1,19 +1,46 @@
-.Box {
-    .AvatarStack-body {
-        display: flex !important;
-        align-items: center;
-        flex-direction: row !important;
+.pc-AvatarStackBody {
+    display: flex !important;
+    align-items: center;
+    flex-direction: row !important;
+
+    /* show only max 3 avatars */
+    a:nth-child(n+5) {
+        display: none;
     }
-    
-    .avatar-user {
-        width: 40px !important;
-        height: 40px !important;
+}
+
+div[data-testid="list-row-assignees"] {
+    top: -11px;
+    right: -14px;
+    position: relative;
+    width: 300px;
+}
+
+.pc-AvatarItem {
+    width: 42px !important;
+    height: 42px !important;
+    margin-right: 4px !important;
+    position: relative;
+    top: -1px;
+
+    img {
+        width: 42px !important;
+        height: 42px !important;
     }
-    
-    .avatar-alt-text {
-        display: block !important;
-        font-size: 14px !important;
-        margin-bottom: 5px !important;
-        margin-right: 20px;
-    }    
+
+    &:nth-child(n+3) {
+        opacity: 1 !important;
+    }
+}
+
+.avatar-alt-text {
+    display: block !important;
+    font-size: 14px !important;
+    margin-right: 20px;
+    width: 150px;
+    height: 42px;
+    overflow: hidden;
+    position: absolute;
+    top: -1px;
+    right: 160px;
 }

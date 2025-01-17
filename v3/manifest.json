@@ -1,11 +1,8 @@
 {
   "manifest_version": 3,
   "name": "GitHub Avatars",
-  "version": "0.3",
+  "version": "0.4",
   "description": "Increases the size of user avatars in GitHub issues",
-  "permissions": [
-    "https://github.com/*"
-  ],
   "author": "Michal Skoula",
   "content_scripts": [
     {
