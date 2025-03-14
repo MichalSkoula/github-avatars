@@ -1,3 +1,5 @@
+## Deprecated - since GitHub keeps changing the DOM
+
 # GitHub Avatars (Browser Extension)
 Increases the size of user avatars in GitHub issues and adds a name next to them.
 
